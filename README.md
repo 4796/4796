@@ -8,6 +8,8 @@
   - [Socket client-server word guessing GUI APP](https://github.com/4796/word-guessing)
   - [Socket client-server chat GUI APP](https://github.com/4796/Chat)
   - [ATM GUI APP](https://github.com/4796/ATM)
+  - [Tower of Hanoi](https://github.com/4796/Tower-of-Hanoi)
+  - [A few data structures](https://github.com/4796/Few-data-structures)
 
 - <b>Python</b>
 
