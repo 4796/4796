@@ -12,6 +12,7 @@
   - [A few data structures](https://github.com/4796/Few-data-structures)
 
 - <b>Python</b>
+  - [Web scraping cinema prices](https://github.com/4796/web-scraping-cinema)
 
 - <b>C</b>
   - [Simple Tic-Tac-Toe terminal game](https://github.com/4796/Tic-Tac-Toe)
