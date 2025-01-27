@@ -13,6 +13,7 @@
 
 - <b>Python</b>
   - [Web scraping cinema prices](https://github.com/4796/web-scraping-cinema)
+  - [Web scraping car ads](https://github.com/4796/web-scraping-car-ads/)
 
 - <b>C</b>
   - [Simple Tic-Tac-Toe terminal game](https://github.com/4796/Tic-Tac-Toe)
