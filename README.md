@@ -19,6 +19,7 @@
 - <b>C</b>
   - [Simple Tic-Tac-Toe terminal game](https://github.com/4796/Tic-Tac-Toe)
   - [Simple Managing employee data terminal app](https://github.com/4796/Manage-employee)
+  - [Simple Sorting Algorithms](https://github.com/4796/Simple-sorting-algorithms)
 
 - <b>Shell</b>
   - [Homework/3 simple projects](https://github.com/4796/Bash-domaci.git) 
