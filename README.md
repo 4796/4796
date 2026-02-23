@@ -13,6 +13,11 @@
   - [Tower of Hanoi](https://github.com/4796/Tower-of-Hanoi)
   - [A few data structures](https://github.com/4796/Few-data-structures)
 
+
+- <b>AI and Data science</b>
+  - [Sentiment Analysis: Classical ML vs. LLMs](https://github.com/4796/ml-zero-shot-few-shot)
+
+
 - <b>Python</b>
   - [Web scraping cinema prices](https://github.com/4796/web-scraping-cinema)
   - [Web scraping car ads](https://github.com/4796/web-scraping-car-ads/)
