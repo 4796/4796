@@ -24,7 +24,7 @@
   - [API Flask travel planer](https://github.com/4796/API-travels/)
 
  - <b>Next.js</b>
-  - [Student Attendance, Calendar and Schedule Management System](https://github.com/4796/Student-Attendance-Calendar-and-Schedule-Management-System)
+   - [Student Attendance, Calendar and Schedule Management System](https://github.com/4796/Student-Attendance-Calendar-and-Schedule-Management-System)
     
 - <b>C</b>
   - [Simple Tic-Tac-Toe terminal game](https://github.com/4796/Tic-Tac-Toe)
