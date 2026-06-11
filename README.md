@@ -34,5 +34,5 @@
 - <b>Shell</b>
   - [Homework/3 simple projects](https://github.com/4796/Bash-domaci.git) 
 
-
-
+- <b>Blockchain / Web3</b>
+  - [Solidity Time-locked ETH vault](https://github.com/4796/solidity-eth-timelock-vault/tree/main)
