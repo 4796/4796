@@ -6,10 +6,6 @@
 
   - [Template method patern and Larmans Grasp principle Java application for admistration for car sales administration](https://github.com/4796/Template-method-design-pattern-and-Larman-s-GRASP-principles-Java-application)
   - [Spring boot and React Microservice architecture Health management system](https://github.com/4796/Spring-Boot-React-Health-Management-System)
-  - [Socket client-server travel application GUI APP](https://github.com/4796/travel-application)
-  - [Socket client-server word guessing GUI APP](https://github.com/4796/word-guessing)
-  - [Socket client-server chat GUI APP](https://github.com/4796/Chat)
-  - [ATM GUI APP](https://github.com/4796/ATM)
   - [Tower of Hanoi](https://github.com/4796/Tower-of-Hanoi)
   - [A few data structures](https://github.com/4796/Few-data-structures)
 
@@ -27,8 +23,7 @@
    - [Full-Stack Academic Management System, with a fully automated CI/CD pipeline and Docker containerization](https://github.com/4796/Student-Attendance-Calendar-and-Schedule-Management-System)
     
 - <b>C</b>
-  - [Simple Tic-Tac-Toe terminal game](https://github.com/4796/Tic-Tac-Toe)
-  - [Simple Managing employee data terminal app](https://github.com/4796/Manage-employee)
+  - [Mini CI/job runner system](https://github.com/4796/Mini-CI-job-runner-sistem)
   - [Simple Sorting Algorithms](https://github.com/4796/Simple-sorting-algorithms)
 
 - <b>Shell</b>
