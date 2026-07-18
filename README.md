@@ -23,7 +23,7 @@
    - [Full-Stack Academic Management System, with a fully automated CI/CD pipeline and Docker containerization](https://github.com/4796/Student-Attendance-Calendar-and-Schedule-Management-System)
     
 - <b>C</b>
-  - [Mini CI/job runner system](https://github.com/4796/Mini-CI-job-runner-sistem)
+  - [Mini CI Job Runner for Parallel Build, Test, and Deploy Execution](https://github.com/4796/Mini-CI-job-runner-sistem)
   - [Simple Sorting Algorithms](https://github.com/4796/Simple-sorting-algorithms)
 
 - <b>Shell</b>
